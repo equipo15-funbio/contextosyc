@@ -1216,6 +1216,40 @@ a {
   color: #ffffff;
   text-align: left;
 }
+.cid-sbvUPj3R02 {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-sbvUPj3R02 .counter-container ol {
+  margin-bottom: 0;
+  counter-reset: myCounter;
+}
+.cid-sbvUPj3R02 .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-sbvUPj3R02 .counter-container ol li {
+  list-style: none;
+  padding-left: 1rem;
+  position: relative;
+}
+.cid-sbvUPj3R02 .counter-container ol li:before {
+  position: absolute;
+  left: -40px;
+  margin-top: 5px;
+  counter-increment: myCounter;
+  content: counter(myCounter);
+  line-height: 40px;
+  transition: all .2s;
+  color: #000000;
+  background: #f7c221;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .cid-sbsAO6dJgr {
   background-image: url("../../../assets/images/mbr.jpg");
 }
