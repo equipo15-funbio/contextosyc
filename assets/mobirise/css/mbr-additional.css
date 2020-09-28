@@ -1235,40 +1235,6 @@ a {
   color: #ffffff;
   text-align: left;
 }
-.cid-sbvUPj3R02 {
-  padding-top: 4rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-sbvUPj3R02 .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-sbvUPj3R02 .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-sbvUPj3R02 .counter-container ol li {
-  list-style: none;
-  padding-left: 1rem;
-  position: relative;
-}
-.cid-sbvUPj3R02 .counter-container ol li:before {
-  position: absolute;
-  left: -40px;
-  margin-top: 5px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  line-height: 40px;
-  transition: all .2s;
-  color: #000000;
-  background: #f7c221;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 .cid-sbsAO6dJgr {
   background-image: url("../../../assets/images/mbr.jpg");
 }
@@ -1411,7 +1377,7 @@ a {
 }
 .cid-sbt5fIccgc {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-sbt5fIccgc .line {
@@ -1420,24 +1386,24 @@ a {
   height: 2px;
   margin: 0 auto;
 }
-.cid-sbukQzLtW2 {
+.cid-sbvUPj3R02 {
   padding-top: 3rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-sbukQzLtW2 .counter-container ol {
+.cid-sbvUPj3R02 .counter-container ol {
   margin-bottom: 0;
   counter-reset: myCounter;
 }
-.cid-sbukQzLtW2 .counter-container ol li {
+.cid-sbvUPj3R02 .counter-container ol li {
   margin-bottom: 1rem;
 }
-.cid-sbukQzLtW2 .counter-container ol li {
+.cid-sbvUPj3R02 .counter-container ol li {
   list-style: none;
   padding-left: 1rem;
   position: relative;
 }
-.cid-sbukQzLtW2 .counter-container ol li:before {
+.cid-sbvUPj3R02 .counter-container ol li:before {
   position: absolute;
   left: -40px;
   margin-top: 5px;
@@ -1445,8 +1411,8 @@ a {
   content: counter(myCounter);
   line-height: 40px;
   transition: all .2s;
-  color: #ffffff;
-  background: #6cb356;
+  color: #000000;
+  background: #f7c221;
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -1454,7 +1420,7 @@ a {
   align-items: center;
   justify-content: center;
 }
-.cid-sbukQzLtW2 .mbr-text {
+.cid-sbvUPj3R02 .mbr-text {
   color: #353535;
 }
 .cid-sbsJI4fmOf {
