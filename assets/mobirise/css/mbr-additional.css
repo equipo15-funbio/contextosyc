@@ -1164,7 +1164,7 @@ a {
 }
 .cid-sc8Z96VtS8 {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-sc8Z96VtS8 .mbr-overlay {
@@ -1289,6 +1289,19 @@ a {
   .cid-sc8Z96VtS8 .carousel-indicators {
     display: none !important;
   }
+}
+.cid-sc8Z96VtS8 P {
+  color: #f7c221;
+  text-align: right;
+}
+.cid-scaWKYLuOI {
+  padding-top: 0rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-scaWKYLuOI .mbr-text {
+  text-align: center;
+  color: #353535;
 }
 .cid-sbu8fvkK7f {
   padding-top: 2rem;
